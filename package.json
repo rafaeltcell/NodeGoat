@@ -20,7 +20,7 @@
     "swig": "^1.4.2",
     "underscore": "^1.8.3",
     "tcell-hooks": "^1.0.0",
-    "tcell-agent": "^0.2.10"
+    "tcell-agent": "^0.3.0"
   },
   "comments": {
     "//": "do not upgrade the marked package version it is set by purpose",
